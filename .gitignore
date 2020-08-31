@@ -1,3 +1,4 @@
+out/*
 deliverable/*
 */*.tmp
 build-**.txt

@@ -170,7 +170,7 @@ function _defaults
 
     WM_CFG_EXEC_NAME=wm-config
     WM_CFG_UNINSTALL=false
-    WM_CFG_SETTINGS_PATH=${WM_CFG_SETTINGS_PATH:-"${HOME}/wirepas/wm-config"}
+    WM_CFG_SETTINGS_PATH=${WM_CFG_SETTINGS_PATH:-"${PWD}/out/wm-config"}
 
     PATH="${PATH}:${HOME}/.local/bin/"
 }
